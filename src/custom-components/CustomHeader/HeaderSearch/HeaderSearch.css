@@ -1,0 +1,22 @@
+.Search{
+  border: none;
+  background-color: transparent !important;
+  /* background: transparent; */
+  color: #786213 !important;
+  font-size: 1.1rem;
+  line-height: 1;
+  padding: 0.5rem;
+  width: 30%;
+  box-sizing: border-box;
+}
+
+.Search .ant-input{
+background-color: transparent !important;
+color: #786213 !important;
+}
+
+
+.Search .ant-input::placeholder {
+  color: #786213;
+  font-family: sans-serif;
+}

@@ -1,0 +1,14 @@
+.IconSocial{
+    color: var(--secondary);
+    font-size: xx-large;
+}
+
+.SocialOuter{
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 16px;
+}
+
+.MostOut{
+    display: flex; 
+}

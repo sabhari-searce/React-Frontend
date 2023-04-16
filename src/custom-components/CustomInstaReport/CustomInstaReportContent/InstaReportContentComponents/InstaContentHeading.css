@@ -1,0 +1,14 @@
+.ContentHead{
+    color: white;
+    font-size: 20px;
+}
+
+.OuterContent{
+    display: flex;
+}
+
+.ContentHeadIcon{
+    background-color: var(--secondary);
+    font-size: medium;
+    border-radius: 5px;
+}

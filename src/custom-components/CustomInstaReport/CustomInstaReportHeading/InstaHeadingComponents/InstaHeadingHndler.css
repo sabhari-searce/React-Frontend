@@ -1,0 +1,9 @@
+.InstaId{
+    font-size: medium;
+    color: white;
+}
+
+.Followers{
+    font-size: small;
+    color: var(--secondary);
+}

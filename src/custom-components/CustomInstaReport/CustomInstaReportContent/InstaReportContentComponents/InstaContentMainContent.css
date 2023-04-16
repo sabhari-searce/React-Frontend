@@ -1,0 +1,38 @@
+.SameLineContent{
+display: flex;
+margin: 5px 0;
+}
+
+.ContentTitle{
+color: var(--secondary);
+margin: 5px 0;
+font-size: medium;
+}
+
+.BoldContent{
+    color: white;
+    font-size: 45px;
+    margin: 5px 0;
+    font-weight: bold;
+}
+
+.SummaryContent{
+    color: white;
+    font-size: medium;
+    /* margin: 5px 0; */
+}
+
+.Increase{
+    color: #10b981;
+    font-size: small;
+    margin-right: 5px;
+}
+
+.Decrease{
+    color: #dc2626;
+    font-size: small;
+}
+
+.ContentsOuter{
+    padding-right: 7%;
+}

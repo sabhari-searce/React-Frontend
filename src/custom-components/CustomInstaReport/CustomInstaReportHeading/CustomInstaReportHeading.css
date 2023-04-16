@@ -1,0 +1,37 @@
+.ant-slider-rail {
+  height: 2px;
+  background-color: white;
+}
+
+.ant-slider-track {
+  height: 2px;
+  background-color: orange;
+}
+
+.ant-slider-handle {
+  display: none;
+}
+
+.ant-slider:hover .ant-slider-rail {
+  background-color: white;
+}
+
+.ant-slider:hover .ant-slider-track {
+  background-color: orange;
+}
+
+.ant-slider:hover .ant-slider-handle {
+  display: none;
+}
+
+.ant-slider-disabled .ant-slider-rail {
+  background-color: white;
+}
+
+.ant-slider-disabled .ant-slider-track {
+  background-color: orange;
+}
+
+.ant-slider-disabled .ant-slider-handle {
+  display: none;
+}

@@ -1,0 +1,16 @@
+.HeadingLeft{
+    color: white;
+    font-size: large;
+}
+
+.HeadingSummaryLeft{
+    color: var(--secondary);
+    font-size: small;
+    margin-top: 0%;
+    padding-top: 0%;
+}
+
+.ViewLeft{
+    color: var(--secondary);
+    font-size: medium;
+}

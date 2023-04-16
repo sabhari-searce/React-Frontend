@@ -1,0 +1,10 @@
+.Success .anticon {
+  font-size: small; 
+  background-color: #112725;
+  color: #109e70;
+  border-radius: 50%;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

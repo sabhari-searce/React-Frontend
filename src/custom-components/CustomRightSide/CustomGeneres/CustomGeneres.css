@@ -1,0 +1,17 @@
+.GenereHeading{
+    color: white;
+    font-family: 'Poppins';
+}
+
+.OuterGenere{
+    margin-bottom: 15%;
+}
+.GenereTag{
+    font-size: medium;
+    color: white;
+    padding: 9px 0 9px 9px;
+    background-color: #1f2125;
+    width: 100%;
+    border: none;
+    border-radius: 5px;
+}

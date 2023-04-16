@@ -1,0 +1,11 @@
+.Logo{
+    height: 150px;
+    display: flex;
+  align-items: center;
+}
+
+.OuterContainerLogo{
+padding: 0 5% 0 5%;
+width: 89%;
+display: inline-block;
+}

@@ -1,0 +1,19 @@
+.custom-tab-pane {
+  font-size: 18px;
+  padding: 16px;
+  line-height: 1.5;
+}
+
+
+
+.ant-tabs .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn  {
+  color: var(--tertiary) !important;
+}
+
+.ant-tabs-ink-bar  {
+    display: block !important;
+  background-color: var(--tertiary) !important;
+}
+
+
+

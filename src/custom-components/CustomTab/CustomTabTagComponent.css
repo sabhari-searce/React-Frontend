@@ -1,0 +1,26 @@
+.TabIcon{
+    color: #919eab;
+    font-size: 40px;
+}
+
+.OuterTab{
+    padding: 3% 2% 3% 2%;
+}
+
+.Title{
+color: var(--secondary);
+font-size: small;
+/* align-items: start; */
+}
+
+.Category{
+    color: white;
+    font-size: large;
+}
+
+.TabDot{
+    color: var(--tertiary);
+    background-color: var(--tertiary);
+    border-radius: 58px;
+    font-size: 5px;
+}

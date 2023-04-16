@@ -1,0 +1,34 @@
+.Path{
+height: 80px;
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: flex-end;
+padding: 10px 0;
+color: var(--secondary);
+font-size: 10px;
+font-weight: bold;
+}
+
+.OuterContainerPath{
+padding: 0 5% 0 5%;
+width: 89%;
+display: inline-block;
+font-family: 'Poppins';
+
+}
+
+.PathLine{
+    border: 1px solid var(--secondary);
+}
+
+.Arrow{
+    color: var(--tertiary);
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.ActivePage{
+    color: white;
+    display: inline;
+}

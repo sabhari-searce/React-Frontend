@@ -1,0 +1,15 @@
+.InterestTag{
+    font-size: x-small;
+    color: var(--tertiary);
+    padding: 5px 5px 5px 5px;
+    background-color: #28251a;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 5%;
+    margin-right: 5%;
+}
+
+.OuterTag{
+    margin-right: 5%;
+    margin-bottom: 2%;
+}

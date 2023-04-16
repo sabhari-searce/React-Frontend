@@ -1,0 +1,32 @@
+.progress-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 90%;
+  padding: 2%;
+  border-radius: 10px;
+}
+
+.progress-label {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  font-size: 15px;
+  color: white;
+}
+
+.ant-progress-inner {
+  background-color: #134e4a !important;
+}
+
+.ant-progress-bg {
+  background-color: #5eead4 !important;
+  background-image: linear-gradient(to right, #5eead4 0%, #5eead4 100%) !important;
+}
+
+.ant-progress-text {
+  font-size: 0px;
+  
+}

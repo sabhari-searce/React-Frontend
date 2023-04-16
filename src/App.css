@@ -1,0 +1,24 @@
+.Content{
+    width: 95.6%;
+    /* background-color: #16171b; */
+    padding: 80px 0px 0px 5%;
+    /* background-image: '/Bg.png'; */
+     background: #16171b url('assets/Bg.png') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.left {
+  flex: 3;
+  padding: 20px;
+}
+
+.right {
+  flex: 1;
+  padding: 10px;
+  border-left: 1px solid var(--secondary);
+}

@@ -1,0 +1,39 @@
+.ChartRight{
+    height: 120vh !important;
+    width: 120vw;
+}
+
+element.style{
+    height : 255px !important;
+}
+
+
+.chart-container {
+  height: 75% !important;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10%;
+  /* justify-content: center;  */
+}
+
+.chart {
+  flex-shrink: 0;
+  /* padding-top: 10%; */
+}
+
+
+
+.ContentChartI {
+  /* position: absolute; */
+  /* top: 10px; */
+  /* right: 10px; */
+  /* background-color: var(--secondary) !important; */
+  font-size: medium;
+  border-radius: 10px;
+  /* padding: 5px; */
+  padding-left: 80%;
+  color: white !important;
+}
+

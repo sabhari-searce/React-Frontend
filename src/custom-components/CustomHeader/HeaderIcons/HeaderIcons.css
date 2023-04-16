@@ -1,0 +1,10 @@
+.Icon .anticon {
+  font-size: small; 
+  background-color: #433a19;
+  color: #e9bc13;
+  border-radius: 50%;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

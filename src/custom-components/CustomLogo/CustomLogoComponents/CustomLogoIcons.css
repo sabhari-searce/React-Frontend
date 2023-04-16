@@ -1,0 +1,46 @@
+.unselected-icon {
+display: block;
+height: 30px;
+width : 39px;
+border-radius: 6px;
+font-size: medium;
+line-height: 30px;
+text-align: center;
+  color: var(--tertiary);
+  background-color: transparent;
+  border: 2px solid var(--tertiary);
+}
+
+.unselected-icon:hover {
+  background-color: #504414;
+  border: 0.5px solid var(--tertiary);
+}
+
+.selected-icon {
+display: block;
+height: 30px;
+width : 39px;
+border-radius: 6px;
+font-size: medium;
+line-height: 30px;
+text-align: center;
+color: var(--tertiary);
+background-color: #28251a;
+border: none;
+}
+
+.selected-icon:hover {
+  background-color: #504414;
+  border: none;
+}
+
+.OuterBox{
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.InnerBox{
+    padding: 10px 10px 10px 10px;
+}

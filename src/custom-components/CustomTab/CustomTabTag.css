@@ -1,0 +1,43 @@
+.tag-container {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+
+
+.custom-tag {
+  width: 100%;
+  background-color: #1f2125;
+  border: none;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+  position: relative;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.custom-tag::before {
+  content: '';
+  position: absolute;
+  height: 80%;
+  width: 1px;
+  background-color: var(--secondary);
+  top: 50%;
+  left: 33.33%;
+  transform: translateY(-50%);
+}
+.custom-tag::after {
+  content: '';
+  position: absolute;
+  height: 80%;
+  width: 1px;
+  background-color: var(--secondary);
+  top: 50%;
+  left: 66.67%;
+  transform: translateY(-50%);
+}
+
